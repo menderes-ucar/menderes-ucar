@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Menderes Uçar</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=menderes-ucar&label=Profile%20views&color=0e75b6&style=flat" alt="menderes-ucar" /> </p>
 
 - 🌱 I’m currently learning **ASP.NET**
 
@@ -22,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=menderes-ucar&show_icons=true&locale=en" alt="menderes-ucar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=menderes-ucar&" alt="menderes-ucar" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=menderes-ucar&label=Profile%20views&color=0e75b6&style=flat" alt="menderes-ucar" /> </p>
